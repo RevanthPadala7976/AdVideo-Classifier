@@ -42,8 +42,10 @@ I built an ANN with multiple dense layers to predict multi label classification 
 I used the pre-trained BERT model from Hugging Face for its superior capability in handling natural language. The model was fine-tuned for each of the 21 binary questions independently. Text data was tokenized using BERT’s tokenizer and fed into the model. The model achieved a precision of 0.1255, recall of 0.0871, and F1 Score of 0.0598. This performance was lower than expected, likely due to limited fine-tuning and dataset.
 
 Random Forest was the best-performing model with an accuracy of 75.1%. Traditional models generally outperformed deep learning models, likely due to dataset size and training constraints. BERT's performance was lower than expected, suggesting the need for more extensive fine-tuning.
- 
+
 ## Further Analysis on Random Forest classifier: Individual question metrics
+
+![Evaluation](https://github.com/user-attachments/assets/08e7d8b7-e168-47e1-95d3-dcdc24ff1835)
 
   
 - Observation: Question 17 showed significantly lower performance.
