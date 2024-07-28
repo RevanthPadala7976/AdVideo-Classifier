@@ -7,6 +7,15 @@ Answering 21 Binary questions with 150 Ad Videos
 ![Natural Language Processing](https://img.shields.io/badge/Natural_Language_Processing-008080?style=for-the-badge&logo=natural-language-processing&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF5733?style=for-the-badge&logo=deep-learning&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT-0096FF?style=for-the-badge&logo=bert&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
+  <img src="https://img.shields.io/badge/Matplotlib-3C5280?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+</p>
 
 
 ## Introduction:
