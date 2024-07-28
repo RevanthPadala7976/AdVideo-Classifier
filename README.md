@@ -59,3 +59,11 @@ Random Forest was the best-performing model with an accuracy of 75.1%. Tradition
   
 ## Conclusion:
 In conclusion, the Random Forest model outperformed other models with an accuracy of 75.1% in classifying video advertisements into 21 binary questions. While traditional machine learning models, including Logistic Regression, SVC, and Gaussian Naive Bayes, demonstrated strong performance, deep learning models like ANN and RNN showed slightly lower accuracy. The BERT model, despite its advanced capabilities, underperformed, indicating a need for further fine- tuning and larger datasets. Future work will focus on optimizing BERT, exploring additional features, and potentially combining models to improve overall performance.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
