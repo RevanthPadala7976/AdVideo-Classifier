@@ -3,19 +3,20 @@ Answering 21 Binary questions with 150 Ad Videos
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-01453A?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0078D4?style=for-the-badge&logo=machine-learning&logoColor=white)
 ![Natural Language Processing](https://img.shields.io/badge/Natural_Language_Processing-008080?style=for-the-badge&logo=natural-language-processing&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF5733?style=for-the-badge&logo=deep-learning&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT-0096FF?style=for-the-badge&logo=bert&logoColor=white)
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
-  <img src="https://img.shields.io/badge/Matplotlib-3C5280?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-</p>
+
 
 
 ## Introduction:
@@ -42,6 +43,8 @@ I built an ANN with multiple dense layers to predict multi label classification 
 I used the pre-trained BERT model from Hugging Face for its superior capability in handling natural language. The model was fine-tuned for each of the 21 binary questions independently. Text data was tokenized using BERT’s tokenizer and fed into the model. The model achieved a precision of 0.1255, recall of 0.0871, and F1 Score of 0.0598. This performance was lower than expected, likely due to limited fine-tuning and dataset.
 
 Random Forest was the best-performing model with an accuracy of 75.1%. Traditional models generally outperformed deep learning models, likely due to dataset size and training constraints. BERT's performance was lower than expected, suggesting the need for more extensive fine-tuning.
+
+<img width="578" alt="accuracies" src="https://github.com/user-attachments/assets/c9e7d098-3128-412f-bb16-485af820fd0c">
 
 ## Further Analysis on Random Forest classifier: Individual question metrics
 
